@@ -4,6 +4,8 @@ description: Introductory lecture to the course.
 file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/c9133570a26c8b291267be4c97271af9_lect1_Susanne.pdf
 file_size: 1153162
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

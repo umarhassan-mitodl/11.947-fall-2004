@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -76,7 +78,7 @@ Townsend, Anthony. "Digitally Mediated Urban Space: New Lessons for Design." _Pr
 
 Horan, Thomas A. "Wiring Livable Regions." Chapter 4 in _Digital Places: Building Our City of Bits_. Washington, D.C.: Urban Land Institute, 2001. ISBN: 0874208459.
 
-{{% resource_link "626aba0d-8718-4f2d-b6db-1f6556dc1961" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mitchell, William J. "Software: New Genius of the Place." Chapter 3 in {{% resource_link "626aba0d-8718-4f2d-b6db-1f6556dc1961" "_E-Topia: Urban Life, Jim - But Not As We Know It_" %}}. Cambridge, MA: MIT Press, 1999. ISBN: 0262133555.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/e-topia) Mitchell, William J. "Software: New Genius of the Place." Chapter 3 in [_E-Topia: Urban Life, Jim - But Not As We Know It_](https://mitpress.mit.edu/books/e-topia). Cambridge, MA: MIT Press, 1999. ISBN: 0262133555.
 
 Overholt, Alison. "Wireless in San Diego." _Fast Company_ (January 2004): 84-87.
 
@@ -116,9 +118,9 @@ Rheingold, Howard. "The Era of Sentiment Things." Chapter 4 in _Smart Mobs._ Ca
 
 Townsend, A. M. "Wired/Unwired: The Urban Geography of Digital Networks." Unpublished Doctoral Dissertation. Massachusetts Institute of Technology, 2003.
 
-Weisman, Robert. "Live-in Lab." {{% resource_link "c6c90518-9ba5-4032-9dac-5d402195829e" "_The Boston Globe_" %}}, October 4, 2004.
+Weisman, Robert. "Live-in Lab." [_The Boston Globe_](http://boston.com/), October 4, 2004.
 
-{{% resource_link "566fd4fe-3997-492f-8ff5-928a9cb12b3f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mitchell, William J. "Wireless Bipeds." Chapter 3 in {{% resource_link "566fd4fe-3997-492f-8ff5-928a9cb12b3f" "_Me++_" %}}. Cambridge, MA: MIT Press, 2003, pp. 41-62. ISBN: 0262633132.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/me) Mitchell, William J. "Wireless Bipeds." Chapter 3 in [_Me++_](https://mitpress.mit.edu/books/me). Cambridge, MA: MIT Press, 2003, pp. 41-62. ISBN: 0262633132.
 
 Gershenfeld, Neil, Raffi Kirkorian, and Danny Cohen. "The Internet of Things." _Scientific American_ 291, no. 4, (October 2004): 46-51.
 

@@ -4,6 +4,8 @@ description: Example of student project proposal and agenda.
 file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/ab94dde515aee9fa090cb4ef13ba8f98_sacks_agenda.pdf
 file_size: 62663
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
