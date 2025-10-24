@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/a8ab83c1e488e09ba95b94351d9853bb_hu_agenda.pdf
 file_size: 38409
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Lecture presentation delivered by David Geltner and Tony Ciochetti.
 file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/bcce945305a8ffe9ca57a18579afaff0_lecture_5.pdf
 file_size: 129325
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

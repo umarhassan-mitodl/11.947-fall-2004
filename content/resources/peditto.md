@@ -6,8 +6,6 @@ description: Term project courtesy of Gena Peditto. This paper begins to address
 file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/29287b83e92966458738268341ceb337_peditto.pdf
 file_size: 823463
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

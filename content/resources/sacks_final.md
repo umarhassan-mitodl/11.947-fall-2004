@@ -10,8 +10,6 @@ description: 'Student project paper courtesy of Sean Sacks. This paper seeks to 
 file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/122f052669bbd1e36c0b8fa2a4e9f1db_sacks_final.pdf
 file_size: 345138
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

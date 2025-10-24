@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/c0bfcc9e998d5ccdc83ab7e9866453cb_lecture_3.pdf
 file_size: 279908
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-947-new-century-cities-real-estate-digital-technology-and-design-fall-2004/6ccf00d546290d8b49dd15bd7d1e880e_mccabe_final.pdf
 file_size: 168168
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
